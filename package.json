@@ -1,10 +1,14 @@
 {
   "name": "safe-es6-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render es6 interpolation templates safely",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalexgabi/safe-es6-template.git"
   },
   "author": "",
   "license": "The Unlicense",
