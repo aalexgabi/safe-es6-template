@@ -1,0 +1,18 @@
+{
+  "name": "safe-es6-template",
+  "version": "1.0.0",
+  "description": "Render es6 interpolation templates safely",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "author": "",
+  "license": "The Unlicense",
+  "dependencies": {
+    "lodash.get": "^4.4.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
